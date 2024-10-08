@@ -15,7 +15,7 @@ O objetivo deste projeto é facilitar o download e o processamento dos dados geo
 Passo a Passo
 
 1- Acesso ao Portal FBDS Geo
-Acesse o site geo .fbds .org .br e selecione o estado de Rondônia para obter os dados geoespaciais disponíveis.
+Acesse o site https://geo.fbds.org.br/ e selecione o estado de Rondônia para obter os dados geoespaciais disponíveis.
 
 2- Download do Notebook Original
 Baixei o notebook 02_processar_dados_estado_FBDS.ipynbdo repositório original fronzag /br_fbds .
