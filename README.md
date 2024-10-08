@@ -13,6 +13,7 @@ Descrição do Projeto
 O objetivo deste projeto é facilitar o download e o processamento dos dados geoespaciais fornecidos pela FBDS, consolidando as informações de todos os municípios de Rondônia em um único geopacote (.gpkg).
 
 Passo a Passo
+
 1- Acesso ao Portal FBDS Geo
 Acesse o site geo .fbds .org .br e selecione o estado de Rondônia para obter os dados geoespaciais disponíveis.
 
@@ -35,6 +36,8 @@ Esse ajuste permite listar corretamente todas as pastas correspondentes aos muni
 
 6- Consolidação das Camadas
 No final, adicionei uma função para unificar todas as camadas iguais provenientes de diferentes municípios em uma única camada para o estado, já que os dados são exportados por município.
+
+Script funcionando com todos os ajustes: https://github.com/neurojunior/Fusao_FBDS/blob/main/FBDS.ipynb
 
 Agradecimentos
 Michel Metran e José Guilherme Fronza : Pelo desenvolvimento do script original.
